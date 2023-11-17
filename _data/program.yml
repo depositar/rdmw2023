@@ -41,7 +41,7 @@ days:
         title: "經驗分享 1-1: 題目待定"
         subtitle: 鄭瑋 (台灣大學圖書資訊學系)
         category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
-      - title: "經驗分享 1-2: ORCID: Case studies of Persistent Identifiers in Research Data Management"
+      - title: "ORCID: Case studies of Persistent Identifiers in Research Data Management"
         subtitle: Estelle 鄭潔之 (ORCID)
         category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
       - title: "圖書館提供RDM服務的未來已來? 陽明交大起步走"
@@ -62,7 +62,7 @@ days:
       - title: "經驗分享 2-3: 題目待定"
         subtitle: 黃誌川 (台灣大學地理系)
         category: 經驗分享 (2)：資料管理的規畫與實務
-      - title: "經驗分享 2-4: LTSER資料庫建置的現況與挑戰"
+      - title: "LTSER資料庫建置的現況與挑戰"
         subtitle: 王素芬 (彰化師範大學地理系)
         category: 經驗分享 (2)：資料管理的規畫與實務
       - time: 16:05 to 16:20
@@ -71,10 +71,10 @@ days:
         title: "經驗分享 3-1: 題目待定"
         subtitle: 曾虹文 (綠色公民行動聯盟)
         category: 經驗分享 (3)：資料再利用的推手
-      - title: "經驗分享 3-2: 以氣候變遷服務為導向的研究資料管理經驗談"
+      - title: "以氣候變遷服務為導向的研究資料管理經驗談"
         subtitle: 劉子明 (臺灣氣候變遷推估資訊與調適知識平台 (TCCIP))
         category: 經驗分享 (3)：資料再利用的推手
-      - title: "經驗分享 3-3: 鋪一條通往研究資料開放的路-以林業試驗所為例"
+      - title: "鋪一條通往研究資料開放的路-以林業試驗所為例"
         subtitle: 鄭美如 (林業試驗所)
         category: 經驗分享 (3)：資料再利用的推手
       - time: 17:20 to 17:30
