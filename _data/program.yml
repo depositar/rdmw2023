@@ -1,0 +1,81 @@
+legend:
+  title: 分類
+  categories:
+    - name: RDM 與 depositar
+      color: blue-6
+    - name: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+      color: red-6
+    - name: 經驗分享 (2)：資料管理的規畫與實務
+      color: green-6
+    - name: 經驗分享 (3)：資料再利用的推手
+      color: yellow-6
+
+days:
+  - name: Day 1
+    events:
+      - time: 9:30 to 10:00
+        title: 報到
+      - time: 10:00 to 10:05
+        title: 致詞
+        subtitle: TBC
+      - time: 10:05 to 10:30
+        title: 研究資料管理概述
+        subtitle: 何明諠 (中央研究院資訊科技創新研究中心)
+        category: RDM 與 depositar
+      - time: 10:30 to 11:00
+        title: 研究資料寄存所 (depositar) 簡介
+        subtitle: 王家薰 (中央研究院資訊科學研究所)
+        category: RDM 與 depositar
+      - time: 11:00 to 11:15
+        title: 休息
+      - time: 11:15 to 11:45
+        title: depositar 實作、問答與交流
+        subtitle: 李承錱 (中央研究院資訊科學研究所)
+        category: RDM 與 depositar
+      - time: 11:45 to 13:00
+        title: 午餐
+      - time: 13:00 to 13:10
+        title: 開場致詞
+        subtitle: TBC
+      - time: 13:10 to 14:30
+        title: "經驗分享 1-1: 題目待定"
+        subtitle: 鄭瑋 (台灣大學圖書資訊學系)
+        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+      - title: "經驗分享 1-2: ORCID: Case studies of Persistent Identifiers in Research Data Management"
+        subtitle: Estelle 鄭潔之 (ORCID)
+        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+      - title: "經驗分享 1-3: 題目待定"
+        subtitle: 廖國偉 (台灣大學生物環境系統工程學系)
+        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+      - title: "經驗分享 1-4: 題目待定"
+        subtitle: 盧鏡臣 ()
+        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+      - time: 14:30 to 14:45
+        title: 休息
+      - time: 14:45 to 16:05
+        title: "經驗分享 2-1: LTSER 資料庫建置的現況與挑戰"
+        subtitle: 王素芬 (彰化師範大學地理學系)
+        category: 經驗分享 (2)：資料管理的規畫與實務
+      - title: "經驗分享 2-2: 題目待定"
+        subtitle: 黃誌川 (台灣大學地理系)
+        category: 經驗分享 (2)：資料管理的規畫與實務
+      - title: "經驗分享 2-3: 題目待定"
+        subtitle: 曾虹文 (綠色公民行動聯盟)
+        category: 經驗分享 (2)：資料管理的規畫與實務
+      - time: 16:05 to 16:20
+        title: 休息
+      - time: 16:20 to 17:20
+        title: "經驗分享 3-1: 圖書館提供 RDM 服務的未來已來? 陽明交大起步走"
+        subtitle: 王慧恆 (國立陽明交通大學圖書館)
+        category: 經驗分享 (3)：資料再利用的推手
+      - title: "經驗分享 3-2: 題目待定"
+        subtitle: 陳慧華 (?)
+        category: 經驗分享 (3)：資料再利用的推手
+      - title: "經驗分享 3-3: 以氣候變遷服務為導向的研究資料管理經驗談"
+        subtitle: 劉子明 (臺灣氣候變遷推估資訊與調適知識平台 (TCCIP))
+        category: 經驗分享 (3)：資料再利用的推手
+      - title: "經驗分享 3-4: 鋪一條通往研究資料開放的路-以林業試驗所為例"
+        subtitle: 鄭美如 (林業試驗所)
+        category: 經驗分享 (3)：資料再利用的推手
+      - time: 17:20 to 17:30
+        title: 休息

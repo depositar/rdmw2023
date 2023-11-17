@@ -1,11 +1,12 @@
-title: ""
+title: "2023 研究資料管理工作坊"
 description: ""
 baseurl: ""
-url: ""
+url: "https://depositar.github.io"
 
-home: false
+theme: jekyll-nagymaros
+
 copyright: false
-indexing: false
+indexing: true
 
 exclude:
   - demo/
@@ -15,7 +16,6 @@ exclude:
   - screenshot.png
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 sass:

@@ -7,6 +7,7 @@
 var map = L.map("map").setView([{{ center }}], {{ zoom }});
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+map.attributionControl.addAttribution('&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>');
 
 {% if site.data.locations.markers %}
 {% for marker in site.data.locations.markers %}
@@ -24,7 +25,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 L.marker([{{ marker.latlng }}])
     {% if content %}
     .addTo(map)
-    .bindTooltip("{{ content }}");
+    .bindPopup("{{ content }}").openPopup();
     {% else %}
     .addTo(map);
     {% endif %}

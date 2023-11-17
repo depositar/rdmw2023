@@ -25,7 +25,7 @@ layout: default
             {% else %}
             {% assign a = 'href="' | append: button.url | append: '"' %}
             {% endif %}
-            <a {{ a }} type="button" class="{{ classes }}" target="_blank">{{ button.text | upcase }}</a>
+            <a {{ a }} type="button" class="{{ classes }}">{{ button.text | upcase }}</a>
             {% endfor %}
         </div>
         {% endif %}

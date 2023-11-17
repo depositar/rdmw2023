@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<main class="my-4">
+    <div class="container">
+        <h1 class="display-5">{{ title }}</h1>
+        {{ content }}
+        {% if site.data.speakers %}
+        <ul class="list-unstyled">
+        {% for speaker in site.data.speakers %}
+        <li>
+            <div class="card mb-3">
+                <div class="row g-0">
+                    <div class="col-md-3 pl-3 align-self-center text-center">
+                        <img class="rounded-circle" style="width: 60%;" src="/assets/images/{{ speaker.img }}">
+                    </div>
+                    <div class="col-md-8 p-3">
+                        <h3 class="card-title">{{ speaker.name }}</h3>
+                        <h5 class="card-text">{{ speaker.affiliation }}</h5>
+                        <p class="card-text">{{ speaker.biography }}</p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+</main>
+
+{% include footer.html %}
