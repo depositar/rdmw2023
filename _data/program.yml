@@ -1,7 +1,7 @@
 legend:
   title: 分類
   categories:
-    - name: RDM 與 depositar
+    - name: 研究資料管理與 depositar
       color: blue-6
     - name: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
       color: red-6
@@ -29,9 +29,9 @@ days:
       - time: 11:00 to 11:15
         title: 休息
       - time: 11:15 to 11:45
-        title: depositar 實作、問答與交流
+        title: 資料寄存實作與問答
         subtitle: 李承錱 (中央研究院資訊科學研究所)
-        category: RDM 與 depositar
+        category: 研究資料管理與 depositar
       - time: 11:45 to 13:00
         title: 午餐
       - time: 13:00 to 13:10
