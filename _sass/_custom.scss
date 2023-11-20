@@ -17,3 +17,11 @@
 .container {
    --bs-gutter-x: 0;
 }
+
+.banner {
+    height: 300px;
+    background-image: url(../assets/images/banner.png);
+    //background-position: right;
+    //background-size: 850px;
+}
+
