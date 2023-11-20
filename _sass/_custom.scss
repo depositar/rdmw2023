@@ -31,3 +31,7 @@
 .lead {
     font-size: 2rem;
 }
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #ffffff;
+}
