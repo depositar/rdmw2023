@@ -1,10 +1,10 @@
 buttons:
   - text: 議程
-    url: /program/
+    url: /program.html
     disabled: false
   - text: 地點
-    url: /locations/
+    url: /locations.html
     disabled: false
   - text: 線上報名
-    url: /registration/
+    url: /registration.html
     disabled: false
