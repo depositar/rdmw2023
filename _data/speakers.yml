@@ -1,7 +1,7 @@
 - name: 王素芬
   affiliation: 彰化師範大學地理學系 教授
   biography:
-  img:
+  img: WSF_600.jpg
 - name: 王家薰
   affiliation: 中央研究院資訊科學研究所 專案經理
   biography: 曾參與在中央研究院執行的自由軟體鑄造場及台灣創用 CC 計畫。具工程師的背景並熱愛開放自由的風氣，關注數位保存及研究資料管理相關資訊，目前為研究資料管理計畫的專案經理，致力於推廣研究資料管理的概念並向下扎根。
@@ -13,14 +13,14 @@
 - name: 何明諠
   affiliation: 中央研究院資訊科技創新研究中心 專案經理
   biography: 目前任職於資訊科技創新研究中心，是協助執行資料管理方案（DMP）的聯絡窗口之一，同時也致力於資料政策分析，並提倡研究資料管理（RDM）。此外，他在中央研究院也參與了另一個關於隱私與資安的計畫。在加入 depositar 團隊前，他在台灣人權促進會致力於推動數位人權議題。
-  img: 
+  img: hms.jpg
 - name: 李承錱
   affiliation: 中央研究院資訊科學研究所 技術經理
   biography: 目前擔任「研究資料寄存所」(depositar / data.depositar.io) 的技術經理，負責該平台開發工作。近期研究主軸為資料流通標準、資訊系統自動化部署與長期維運，期許透過導入相關技術，以因應研究資料寄存所的持續發展需求。多年 Python 使用者。
   img: cjlee.png
 - name: 莊庭瑞
   affiliation: 中央研究院資訊科學研究所／中央研究院資訊科技創新研究中心 副研究員
-  biography:
+  biography: 莊庭瑞為中央研究院資訊科學研究所副研究員，同時合聘於人文社會科學研究中心（地理資訊科學研究專題中心）以及資訊科技創新研究中心。
   img:
 - name: 陳慧華
   affiliation: 臺灣大學圖書館系統資訊組 組長
@@ -29,11 +29,11 @@
 - name: 曾虹文
   affiliation: 綠色公民行動聯盟 副秘書長
   biography:
-  img:
+  img: thw.jpg
 - name: 黃誌川
   affiliation: 台灣大學地理環境資源學系 教授
   biography: 黃誌川教授是國立台灣大學地理環境資源研究所博士。攻讀博士學位其間，主要的研究領域水文模式模擬，包括了無限邊坡模式及TOPMODEL。在獲得博士學位後，先後於中央研究院生物多樣性研究中心、環境變遷研究中心擔任博士後研究員，主要的研究內容包括了集水區碳、氮循環、水文地形作用、集水區水文模擬。參與的學術團體包括了EGU (European Geophysics Union)、AGU (American Geophysics Union)及IAEH (International Association for Environmental Hydrology) 並擔任中華民國土木水利工程會刊、地理學報及Paddy and Water Environment期刊論文審查者。
-  img:
+  img: jcHuang.jpg
 - name: 廖國偉
   affiliation: 台灣大學生物環境系統工程學 教授
   biography: 
@@ -53,7 +53,7 @@
 - name: 劉子明
   affiliation: 國家災害防救科技中心 助理研究員
   biography: 劉子明博士現任於國家災害防救科技中心氣候變遷組，負責執行國科會-臺灣氣候變遷推估資訊與調適知識平台計畫，並擔任該計畫中的Team3分組小組長，負責「臺灣氣候變遷推估資訊與調適知識平台」(簡稱 TCCIP )的服務與推廣。TCCIP 是國內主要的氣候變遷資料、資訊與知識整合服務平台，已累積十多年的研究成果與資料，並對外提供服務，對於資料的儲存、發佈、更新、累積與傳遞必須格外重視，因此於 2019 年開始嘗試 Data Management Plan，以氣候變遷資料服務為出發點，擴展至整體計畫所有資料之管理。
-  img:
+  img: ted2.jpg
 - name: 盧鏡臣
   affiliation: 中央警察大學防災研究所 副教授
   biography:
