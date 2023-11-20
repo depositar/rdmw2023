@@ -3,11 +3,11 @@ legend:
   categories:
     - name: 研究資料管理與 depositar
       color: blue-6
-    - name: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+    - name: 研究資料管理的新近發展與基礎設施
       color: red-6
-    - name: 經驗分享 (2)：資料管理的規畫與實務
+    - name: 研究資料管理規畫與實務
       color: green-6
-    - name: 經驗分享 (3)：資料再利用的推手
+    - name: 資料共享與再利用
       color: yellow-6
 
 days:
@@ -40,42 +40,42 @@ days:
       - time: 13:10 to 14:30
         title: "用「研究資料管理」來支援學術誠信：淺談「有問題的研究實踐」 (QRPs)"
         subtitle: 鄭瑋 (台灣大學圖書資訊學系)
-        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+        category: 研究資料管理的新近發展與基礎設施
       - title: "ORCID: Case studies of Persistent Identifiers in Research Data Management"
         subtitle: Estelle Cheng 鄭潔之 (ORCID)
-        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
-      - title: "研究資料管理服務序曲永續影響」--由Dataverse的體現與推廣中啟航"
+        category: 研究資料管理的新近發展與基礎設施
+      - title: "「研究資料管理服務序曲永續影響」——由 Dataverse 的體現與推廣中啟航"
         subtitle: 王慧恆 (陽明交通大學圖書館)
-        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
-      - title: "Omeka S作為大學圖書館數位典藏系統之應用"
+        category: 研究資料管理的新近發展與基礎設施
+      - title: "Omeka S 作為大學圖書館數位典藏系統之應用"
         subtitle: 陳慧華 (台灣大學圖書館)
-        category: 經驗分享 (1)：研究資料管理的新進發展與基礎設施
+        category: 研究資料管理的新近發展與基礎設施
       - time: 14:30 to 14:45
         title: 休息
       - time: 14:45 to 16:05
-        title: "經驗分享 2-1: 題目待定"
+        title: "（題目待定）"
         subtitle: 廖國偉 (台灣大學生物環境工程學系)
-        category: 經驗分享 (2)：資料管理的規畫與實務
-      - title: "經驗分享 2-2: 題目待定"
+        category: 研究資料管理規畫與實務
+      - title: "（題目待定）"
         subtitle: 盧鏡臣 (中央警察大學防災研究所)
-        category: 經驗分享 (2)：資料管理的規畫與實務
-      - title: "經驗分享 2-3: 題目待定"
+        category: 研究資料管理規畫與實務
+      - title: "（題目待定）"
         subtitle: 黃誌川 (台灣大學地理系)
-        category: 經驗分享 (2)：資料管理的規畫與實務
-      - title: "LTSER資料庫建置的現況與挑戰"
+        category: 研究資料管理規畫與實務
+      - title: "LTSER 資料庫建置的現況與挑戰"
         subtitle: 王素芬 (彰化師範大學地理系)
-        category: 經驗分享 (2)：資料管理的規畫與實務
+        category: 研究資料管理規畫與實務
       - time: 16:05 to 16:20
         title: 休息
       - time: 16:20 to 17:20
-        title: "經驗分享 3-1: 題目待定"
+        title: "（題目待定）"
         subtitle: 曾虹文 (綠色公民行動聯盟)
-        category: 經驗分享 (3)：資料再利用的推手
+        category: 資料共享與再利用
       - title: "以氣候變遷服務為導向的研究資料管理經驗談"
-        subtitle: 劉子明 (臺灣氣候變遷推估資訊與調適知識平台 (TCCIP))
-        category: 經驗分享 (3)：資料再利用的推手
-      - title: "鋪一條通往研究資料開放的路-以林業試驗所為例"
+        subtitle: 劉子明 (臺灣氣候變遷推估資訊與調適知識平台 TCCIP)
+        category: 資料共享與再利用
+      - title: "鋪一條通往研究資料開放的路——以林業試驗所為例"
         subtitle: 鄭美如 (林業試驗所)
-        category: 經驗分享 (3)：資料再利用的推手
+        category: 資料共享與再利用
       - time: 17:20 to 17:30
         title: 休息
