@@ -10,4 +10,4 @@ description: Research Data Management Workshop 2023
 
 <br/>
 
-「2023 研究資料管理工作坊」將於 12 月 21 日在台北中央研究院舉行。舉辦工作坊的目的在於提供一個場合，促進研究者關注討論研究資料的管理議題，希望借此機會讓不同學科領域的研究者，就研究資料管理相關的原則、實踐、及觀點進行交流。這項活動由中央研究院資訊科學研究所、資訊科技創新研究中心、以及 [CODATA Taiwan](https://codata.sinica.edu.tw/) 共同合辦，[研究資料寄存所 (depositar)](https://data.depositar.io/about) 籌辦。
+「2023 研究資料管理工作坊」將於 12 月 21 日在台北中央研究院舉行。舉辦工作坊的目的在於提供一個場合，促進研究者關注討論研究資料的管理議題，希望借此機會讓不同學科領域的研究者，就研究資料管理相關的原則、實踐、及觀點進行交流。這項活動由中央研究院資訊科學研究所、資訊科技創新研究中心、[CODATA Taiwan](https://codata.sinica.edu.tw/)、以及國家科學及技術委員會共同合辦，[研究資料寄存所 (depositar)](https://data.depositar.io/about) 籌辦。
