@@ -57,16 +57,16 @@ days:
         title: 休息
       - time: 14:45 to 16:05
         title: "（題目待定）"
-        subtitle: 廖國偉 (台灣大學生物環境工程學系)
+        subtitle: 廖國偉 (台灣大學生物環境系統工程學)
         category: 研究資料管理規畫與實務
       - title: "（題目待定）"
         subtitle: 盧鏡臣 (中央警察大學防災研究所)
         category: 研究資料管理規畫與實務
       - title: "（題目待定）"
-        subtitle: 黃誌川 (台灣大學地理系)
+        subtitle: 黃誌川 (台灣大學地理環境資源學系)
         category: 研究資料管理規畫與實務
       - title: "LTSER 資料庫建置的現況與挑戰"
-        subtitle: 王素芬 (彰化師範大學地理系)
+        subtitle: 王素芬 (彰化師範大學地理學系)
         category: 研究資料管理規畫與實務
       - time: 16:05 to 16:20
         title: 休息
@@ -75,10 +75,10 @@ days:
         subtitle: 曾虹文 (綠色公民行動聯盟)
         category: 資料共享與再利用
       - title: "以氣候變遷服務為導向的研究資料管理經驗談"
-        subtitle: 劉子明 (臺灣氣候變遷推估資訊與調適知識平台 TCCIP)
+        subtitle: 劉子明 (國家災害防救科技中心)
         category: 資料共享與再利用
       - title: "鋪一條通往研究資料開放的路——以林業試驗所為例"
-        subtitle: 鄭美如 (林業試驗所)
+        subtitle: 鄭美如 (農業部林業試驗所)
         category: 資料共享與再利用
       - time: 17:20 to 17:30
         title: 休息
