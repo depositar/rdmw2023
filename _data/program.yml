@@ -9,6 +9,8 @@ legend:
       color: green-6
     - name: 資料共享與再利用
       color: yellow-6
+    - name: 致詞
+      color: black-6
 
 days:
   - name: Day 1
@@ -37,6 +39,7 @@ days:
       - time: 13:00 to 13:10
         title: 開場致詞
         subtitle: 李德財 院士
+        category: 致詞
       - time: 13:10 to 14:30
         title: "用「研究資料管理」來支援學術誠信：淺談「有問題的研究實踐」 (QRPs)"
         subtitle: 鄭瑋 (台灣大學圖書資訊學系)
