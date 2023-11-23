@@ -9,7 +9,7 @@ legend:
       color: green-6
     - name: 資料共享與再利用
       color: yellow-6
-    - name: 致詞
+    - name: 致詞、主持
       color: black-6
 
 days:
@@ -18,67 +18,77 @@ days:
       - time: 9:30 to 10:00
         title: 報到
       - time: 10:00 to 10:05
-        title: 致詞
-        subtitle: TBC
+        title: 致歡迎詞
+        subtitle: 莊庭瑞（中央研究院 資訊科學研究所）
+        category: 致詞、主持
       - time: 10:05 to 10:30
         title: 研究資料管理概述
-        subtitle: 何明諠 (中央研究院資訊科技創新研究中心)
+        subtitle: 何明諠 (中央研究院 資訊科技創新研究中心)
         category: 研究資料管理與 depositar
       - time: 10:30 to 11:00
         title: 研究資料寄存所 (depositar) 簡介
-        subtitle: 王家薰 (中央研究院資訊科學研究所)
+        subtitle: 王家薰 (中央研究院 資訊科學研究所)
         category: 研究資料管理與 depositar
       - time: 11:00 to 11:15
         title: 休息
       - time: 11:15 to 11:45
         title: 資料寄存實作與問答
-        subtitle: 李承錱 (中央研究院資訊科學研究所)
+        subtitle: 李承錱 (中央研究院 資訊科學研究所)
         category: 研究資料管理與 depositar
       - time: 11:45 to 13:00
         title: 午餐
       - time: 13:00 to 13:10
         title: 開場致詞
         subtitle: 李德財 院士
-        category: 致詞
+        category: 致詞、主持
       - time: 13:10 to 14:30
-        title: "用「研究資料管理」來支援學術誠信：淺談「有問題的研究實踐」 (QRPs)"
-        subtitle: 鄭瑋 (臺灣大學圖書資訊學系)
+        title: 主持人
+        subtitle: 陳伶志 (中央研究院 資訊科學研究所)
+        category: 致詞、主持
+      - title: "用「研究資料管理」來支援學術誠信：淺談「有問題的研究實踐」 (QRPs)"
+        subtitle: 鄭瑋 (臺灣大學 圖書資訊學系)
         category: 研究資料管理的新近發展與基礎設施
       - title: "ORCID: Case studies of Persistent Identifiers in Research Data Management"
         subtitle: Estelle Cheng 鄭潔之 (ORCID)
         category: 研究資料管理的新近發展與基礎設施
       - title: "「研究資料管理服務序曲永續影響」——由 Dataverse 的體現與推廣中啟航"
-        subtitle: 王慧恆 (陽明交通大學圖書館)
+        subtitle: 王慧恆 (陽明交通大學 圖書館)
         category: 研究資料管理的新近發展與基礎設施
       - title: "Omeka S 作為大學圖書館數位典藏系統之應用"
-        subtitle: 陳慧華 (臺灣大學圖書館)
+        subtitle: 陳慧華 (臺灣大學 圖書館)
         category: 研究資料管理的新近發展與基礎設施
       - time: 14:30 to 14:45
         title: 休息
       - time: 14:45 to 16:05
-        title: "流域水文水理分析 DMP 應用案例分享"
-        subtitle: 廖國偉 (臺灣大學生物環境系統工程學)
+      - title: 主持人
+        subtitle: 鄭瑋 (臺灣大學 圖書資訊學系)
+        category: 致詞、主持
+      - title: "流域水文水理分析 DMP 應用案例分享"
+        subtitle: 廖國偉 (臺灣大學 生物環境系統工程學)
         category: 研究資料管理規畫與實務
       - title: "永續科學團隊研究資料管理的行動研究"
-        subtitle: 盧鏡臣 (中央警察大學防災研究所)
+        subtitle: 盧鏡臣 (中央警察大學 防災研究所)
         category: 研究資料管理規畫與實務
-      - title: "高頻時序與多參數資料的即時環境生態監測：LTSER翡翠站的資料管理"
-        subtitle: 黃誌川 (臺灣大學地理環境資源學系)
+      - title: "高頻時序與多參數資料的即時環境生態監測：LTSER 翡翠站的資料管理"
+        subtitle: 黃誌川 (臺灣大學 地理環境資源學系)
         category: 研究資料管理規畫與實務
       - title: "LTSER 資料庫建置的現況與挑戰"
-        subtitle: 王素芬 (彰化師範大學地理學系)
+        subtitle: 王素芬 (彰化師範大學 地理學系)
         category: 研究資料管理規畫與實務
       - time: 16:05 to 16:20
         title: 休息
       - time: 16:20 to 17:20
-        title: "資料驅動政府決策改變的可能性，以透明足跡為例"
+        title: 主持人
+        subtitle: 林登秋 (臺灣師範大學 生命科學系)
+        category: 致詞、主持
+      - title: "資料驅動政府決策改變的可能性，以透明足跡為例"
         subtitle: 曾虹文 (綠色公民行動聯盟)
         category: 資料共享與再利用
       - title: "以氣候變遷服務為導向的研究資料管理經驗談"
         subtitle: 劉子明 (國家災害防救科技中心)
         category: 資料共享與再利用
       - title: "打造一個開放研究資料的友善環境——以林業試驗所為例"
-        subtitle: 鄭美如 (農業部林業試驗所)
+        subtitle: 鄭美如 (農業部 林業試驗所)
         category: 資料共享與再利用
       - time: 17:20 to 17:30
         title: 休息
