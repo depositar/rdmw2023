@@ -60,7 +60,7 @@ days:
       - time: 14:30 to 14:45
         title: 休息
       - time: 14:45 to 16:05
-      - title: 主持人
+        title: 主持人
         subtitle: 鄭瑋 (臺灣大學 圖書資訊學系)
         category: 致詞、主持
       - title: "流域水文水理分析 DMP 應用案例分享"
