@@ -7,7 +7,7 @@ theme: jekyll-nagymaros
 
 copyright: false
 indexing: true
-permalink: pretty
+# permalink: pretty
 exclude:
   - demo/
   - jekyll-nagymaros.gemspec
