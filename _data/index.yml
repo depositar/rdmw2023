@@ -6,5 +6,5 @@ buttons:
     url: /locations.html
     disabled: false
   - text: 報名
-    url: /registration.html
+    url: http://odw.kktix.cc/events/rdmw2023
     disabled: false
