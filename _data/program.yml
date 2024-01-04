@@ -28,7 +28,7 @@ days:
       - time: 10:30 to 11:00
         title: 研究資料寄存所 (depositar) 簡介
         subtitle: 王家薰 (中央研究院 資訊科學研究所)
-	slides_url: https://m.odw.tw/u/odw/m/rdmw2023-1-2-p
+        slides_url: https://m.odw.tw/u/odw/m/rdmw2023-1-2-p
         category: 研究資料管理與 depositar
       - time: 11:00 to 11:15
         title: 休息
